@@ -1,0 +1,11 @@
+{
+  "name": "crud-user-with-authentication",
+  "version": "1.0.0",
+  "description": "Microserviços para CRUD de usuário com autenticação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Clara",
+  "license": "ISC"
+}
